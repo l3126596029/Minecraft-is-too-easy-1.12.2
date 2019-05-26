@@ -11,3 +11,5 @@
 # Add a variety of monsters, food, tools, armor
 ## Future
 Modify synthesis tables, add quests and modify monster attributes
+## How to install
+# It is expected that the requirements for computers will be low, and the installation method will be released after the beta version
