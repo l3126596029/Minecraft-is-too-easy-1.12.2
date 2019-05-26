@@ -1,4 +1,4 @@
-[English Version](https://github.com/l3126596029/minecraft is too easy/blob/master/README.md)
+[English Version]([English Version](https://github.com/l3126596029/Minecraft-is-too-easy/blob/master/README_English.md)
 # Minecraft-is-too-easy
 # QQ:3126596029(有事私聊)
 # MITE1.12.2
